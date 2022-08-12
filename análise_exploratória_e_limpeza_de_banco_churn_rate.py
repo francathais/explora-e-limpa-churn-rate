@@ -14,7 +14,7 @@ import statistics as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as srn
+import seaborn as srs
 import io
 
 import seaborn as sns
